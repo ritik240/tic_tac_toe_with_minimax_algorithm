@@ -24,3 +24,7 @@ Maximizer goes RIGHT: It is now the minimizers turn. The minimizer now has a cho
 Being the maximizer you would choose the larger value that is 3. Hence the optimal move for the maximizer is to go LEFT and the optimal value is 3.
 
 
+references:
+https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/
+https://codereview.stackexchange.com/questions/183594/simple-tic-tac-toe-with-minimax-algorithm
+https://www.youtube.com/watch?v=Ntu8nNBL28o
